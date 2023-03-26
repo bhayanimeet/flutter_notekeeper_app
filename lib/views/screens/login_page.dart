@@ -44,6 +44,8 @@ class _LoginPageState extends State<LoginPage> {
                 colors: [
                   Colors.indigo.shade900,
                   Colors.indigo.shade800,
+                  Colors.indigo.shade700,
+                  Colors.indigo.shade600,
                   Colors.indigo.shade500,
                 ],
               ),
